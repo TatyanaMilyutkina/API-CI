@@ -8,6 +8,8 @@ import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
+
+
 class MobileBankApiTestV6 {
     private RequestSpecification requestSpec = new RequestSpecBuilder()
         .setBaseUri("http://localhost")
@@ -28,7 +30,8 @@ class MobileBankApiTestV6 {
       .when()
           .get("/demo/accounts")
       // Проверки
-      .then()
-          .statusCode(400);
+              .then()
+              .statusCode(200);
+
     }
 }

@@ -1,1 +1,1 @@
-Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/kq1se8e03ufie87s?svg=true)](https://ci.appveyor.com/project/TatyanaMilyutkina/api-ci-1)
+Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/rmas1iv9m9if4etk?svg=true)](https://ci.appveyor.com/project/TatyanaMilyutkina/api-ci)
